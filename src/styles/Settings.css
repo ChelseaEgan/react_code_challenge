@@ -1,0 +1,11 @@
+.settings-container {
+  margin: 10px;
+}
+
+input {
+  display: none;
+}
+
+.radio label {
+  padding-left: 0px;
+}
